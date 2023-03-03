@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@e-tribe-project/auth": ["libs/auth/src/index.ts"],
+      "@e-tribe-project/guards": ["libs/guards/src/index.ts"],
       "@e-tribe-project/models": ["libs/models/src/index.ts"],
       "@e-tribe-project/services": ["libs/services/src/index.ts"]
     }
